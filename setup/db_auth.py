@@ -10,13 +10,13 @@ import traceback
 
 # Variables to change
 
-DB_HOST="localhost"
-ADMIN_USERNAME="test-admin"
-ADMIN_PASSWORD="test-admin-pw"
-RW_USERNAME="test-rw"
-RW_PASSWORD="test-rw-pw"
-RO_USERNAME="test-ro"
-RO_PASSWORD="test-ro-pw"
+DB_HOST="192.168.1.100"
+ADMIN_USERNAME="admin6"
+ADMIN_PASSWORD="12needleAMERICAplane45"
+RW_USERNAME="rw"
+RW_PASSWORD="12boneWILLremain61"
+RO_USERNAME="ro"
+RO_PASSWORD="48fortiethBRIDGEwith55"
 
 class SetupDBAuth(object):
     def __init__(self):
